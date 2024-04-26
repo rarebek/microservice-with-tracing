@@ -1,0 +1,15 @@
+2024-04-22T19:51:44.890+0500	ERROR	kafka/consumer.go:96	consumer failed to fetch message:	{"topic": "investor.created", "error": "failed to dial: failed to open connection to localhost:29092: dial tcp 127.0.0.1:29092: connect: connection refused"}
+product_service/internal/infrastructure/kafka.runReader
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/infrastructure/kafka/consumer.go:96
+2024-04-22T19:52:14.740+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T19:55:06.501+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T19:57:23.242+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T19:58:26.523+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:03:04.425+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:11:44.489+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:22:52.946+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:24:54.254+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:28:45.540+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:30:52.534+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:31:45.456+0500	INFO	app/consumer.go:57	user service stops
+2024-04-22T20:37:04.875+0500	INFO	app/consumer.go:57	user service stops

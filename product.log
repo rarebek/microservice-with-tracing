@@ -1,0 +1,545 @@
+2024-04-25T19:56:14.631+0500	INFO	app/app.go:105	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T19:56:52.619+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:56:52+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:35052", "grpc.code": "OK", "grpc.time_ms": 14.344}
+2024-04-25T19:59:21.067+0500	INFO	app/root.go:37	user service stops
+2024-04-25T19:59:23.118+0500	INFO	app/app.go:105	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T19:59:31.418+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:59:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:35318", "grpc.code": "OK", "grpc.time_ms": 14.806}
+2024-04-25T19:59:45.108+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:59:45+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:53684", "grpc.code": "OK", "grpc.time_ms": 7.049}
+2024-04-25T19:59:45.386+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:59:45+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:53688", "grpc.code": "OK", "grpc.time_ms": 1.836}
+2024-04-25T19:59:45.682+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:59:45+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:53704", "grpc.code": "OK", "grpc.time_ms": 1.941}
+2024-04-25T19:59:45.986+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T19:59:45+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:53708", "grpc.code": "OK", "grpc.time_ms": 1.974}
+2024-04-25T20:00:00.962+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:00:00+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:36554", "grpc.code": "OK", "grpc.time_ms": 9.58}
+2024-04-25T20:00:53.818+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:00:53+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:54942", "grpc.code": "OK", "grpc.time_ms": 1.725}
+2024-04-25T20:02:50.192+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:02:50+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:52632", "grpc.code": "OK", "grpc.time_ms": 9.816}
+2024-04-25T20:33:49.984+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:33:52.180+0500	INFO	app/app.go:105	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:34:33.557+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:34:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45404", "grpc.code": "OK", "grpc.time_ms": 5.681}
+2024-04-25T20:35:27.892+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:35:30.007+0500	INFO	app/app.go:105	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:35:35.905+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:35:35+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:58680", "grpc.code": "OK", "grpc.time_ms": 3.003}
+2024-04-25T20:37:33.159+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:52:43.835+0500	INFO	app/app.go:105	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:54:53.193+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:54:54.775+0500	INFO	app/app.go:107	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:56:00.656+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:56:01.969+0500	INFO	app/app.go:107	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:56:17.895+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:56:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:59930", "grpc.code": "OK", "grpc.time_ms": 10.331}
+2024-04-25T20:57:30.072+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:57:31.842+0500	INFO	app/app.go:107	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:57:44.650+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:57:44+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:33856", "grpc.code": "OK", "grpc.time_ms": 2.588}
+2024-04-25T20:58:18.713+0500	INFO	app/root.go:37	user service stops
+2024-04-25T20:58:20.013+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T20:58:25.219+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T20:58:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39028", "grpc.code": "OK", "grpc.time_ms": 10.727}
+2024-04-25T21:05:20.749+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:05:22.509+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:05:31.006+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:05:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:51394", "grpc.code": "OK", "grpc.time_ms": 10.113}
+2024-04-25T21:11:17.293+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:14:19.277+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:14:45.596+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:14:45+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:35360", "grpc.code": "OK", "grpc.time_ms": 8.26}
+2024-04-25T21:16:52.605+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:16:54.549+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:17:11.584+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:17:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:36180", "grpc.code": "OK", "grpc.time_ms": 2.195}
+2024-04-25T21:17:19.107+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:17:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:49850", "grpc.code": "OK", "grpc.time_ms": 1.704}
+2024-04-25T21:17:19.410+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:17:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:49856", "grpc.code": "OK", "grpc.time_ms": 1.706}
+2024-04-25T21:20:07.815+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:20:07+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44862", "grpc.code": "OK", "grpc.time_ms": 2.186}
+2024-04-25T21:30:32.255+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:30:34.144+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:31:16.012+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:31:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:35816", "grpc.code": "OK", "grpc.time_ms": 2.327}
+2024-04-25T21:31:32.830+0500	ERROR	services/product.go:57	articleCategoriesUsecase.Get	{"error": "ProductRepo - GetProduct - r.Pool.QueryRow: no rows in result set"}
+product_service/internal/delivery/grpc/services.productRPC.GetProduct
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/services/product.go:57
+product_service/genproto/product._ProductService_GetProduct_Handler.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:146
+product_service/internal/app.NewApp.UnaryInterceptorData.func6
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:34
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+github.com/grpc-ecosystem/go-grpc-middleware/recovery.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/recovery/interceptors.go:33
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:31
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:148
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:31:32.831+0500	ERROR	zap/options.go:212	finished unary call with code Internal	{"grpc.start_time": "2024-04-25T21:31:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:35028", "error": "rpc error: code = Internal desc = Internal", "grpc.code": "Internal", "grpc.time_ms": 5.096}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:39
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:148
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:31:39.938+0500	ERROR	services/product.go:83	articleCategoriesUsecase.Get	{"error": "ProductRepo - UpdateProduct - r.Pool.QueryRow: no rows in result set"}
+product_service/internal/delivery/grpc/services.productRPC.UpdateProduct
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/services/product.go:83
+product_service/genproto/product._ProductService_UpdateProduct_Handler.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:164
+product_service/internal/app.NewApp.UnaryInterceptorData.func6
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:34
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+github.com/grpc-ecosystem/go-grpc-middleware/recovery.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/recovery/interceptors.go:33
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:31
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_UpdateProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:166
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:31:39.938+0500	ERROR	zap/options.go:212	finished unary call with code Internal	{"grpc.start_time": "2024-04-25T21:31:39+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "UpdateProduct", "peer.address": "127.0.0.1:56844", "error": "rpc error: code = Internal desc = Internal", "grpc.code": "Internal", "grpc.time_ms": 9.357}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:39
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_UpdateProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:166
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:31:57.533+0500	ERROR	services/product.go:101	productCategoriesUsecase.Delete	{"error": "ProductRepo - DeleteProduct - r.Pool.QueryRow: no rows in result set"}
+product_service/internal/delivery/grpc/services.productRPC.DeleteProduct
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/services/product.go:101
+product_service/genproto/product._ProductService_DeleteProduct_Handler.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:182
+product_service/internal/app.NewApp.UnaryInterceptorData.func6
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:34
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+github.com/grpc-ecosystem/go-grpc-middleware/recovery.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/recovery/interceptors.go:33
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:31
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_DeleteProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:184
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:31:57.533+0500	ERROR	zap/options.go:212	finished unary call with code Internal	{"grpc.start_time": "2024-04-25T21:31:57+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "DeleteProduct", "peer.address": "127.0.0.1:42044", "error": "rpc error: code = Internal desc = Internal", "grpc.code": "Internal", "grpc.time_ms": 0.788}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:39
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_DeleteProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:184
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:32:10.005+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:32:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:50764", "grpc.code": "OK", "grpc.time_ms": 9.58}
+2024-04-25T21:32:23.352+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:32:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:40590", "grpc.code": "OK", "grpc.time_ms": 0.338}
+2024-04-25T21:32:34.764+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:32:34+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "UpdateProduct", "peer.address": "127.0.0.1:43078", "grpc.code": "OK", "grpc.time_ms": 9.66}
+2024-04-25T21:32:56.638+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:32:56+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "DeleteProduct", "peer.address": "127.0.0.1:43026", "grpc.code": "OK", "grpc.time_ms": 9.61}
+2024-04-25T21:34:55.644+0500	ERROR	services/product.go:57	articleCategoriesUsecase.Get	{"error": "ProductRepo - GetProduct - r.Pool.QueryRow: no rows in result set"}
+product_service/internal/delivery/grpc/services.productRPC.GetProduct
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/services/product.go:57
+product_service/genproto/product._ProductService_GetProduct_Handler.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:146
+product_service/internal/app.NewApp.UnaryInterceptorData.func6
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:34
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+github.com/grpc-ecosystem/go-grpc-middleware/recovery.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/recovery/interceptors.go:33
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:31
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:148
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:34:55.644+0500	ERROR	zap/options.go:212	finished unary call with code Internal	{"grpc.start_time": "2024-04-25T21:34:55+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:39176", "error": "rpc error: code = Internal desc = Internal", "grpc.code": "Internal", "grpc.time_ms": 0.857}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:39
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:148
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:35:00.248+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:35:00+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39192", "grpc.code": "OK", "grpc.time_ms": 1.794}
+2024-04-25T21:35:10.177+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:35:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:49574", "grpc.code": "OK", "grpc.time_ms": 0.366}
+2024-04-25T21:38:17.602+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:38:23.089+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:39:06.298+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:40:31.737+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:40:57.651+0500	ERROR	zap/options.go:212	finished streaming call with code Unimplemented	{"grpc.start_time": "2024-04-25T21:40:57+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:33212", "error": "rpc error: code = Unimplemented desc = method GetAllProducts not implemented", "grpc.code": "Unimplemented", "grpc.time_ms": 0.122}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.StreamServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:61
+product_service/internal/app.NewApp.ChainStreamServer.func2.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:83
+github.com/grpc-ecosystem/go-grpc-middleware/tags.StreamServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:36
+product_service/internal/app.NewApp.ChainStreamServer.func2
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:86
+google.golang.org/grpc.(*Server).processStreamingRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1670
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1784
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-25T21:44:37.190+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:44:39.307+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:44:44.600+0500	INFO	app/root.go:37	user service stops
+2024-04-25T21:44:58.025+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-25T21:45:05.864+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:45:05+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:36130", "grpc.code": "OK", "grpc.time_ms": 9.117}
+2024-04-25T21:45:08.515+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:45:08+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:36140", "grpc.code": "OK", "grpc.time_ms": 0.55}
+2024-04-25T21:46:04.076+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:46:04+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:56452", "grpc.code": "OK", "grpc.time_ms": 0.465}
+2024-04-25T21:46:14.804+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:14+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60768", "grpc.code": "OK", "grpc.time_ms": 2.151}
+2024-04-25T21:46:15.111+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60782", "grpc.code": "OK", "grpc.time_ms": 9.825}
+2024-04-25T21:46:15.418+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60798", "grpc.code": "OK", "grpc.time_ms": 1.907}
+2024-04-25T21:46:15.754+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60806", "grpc.code": "OK", "grpc.time_ms": 9.961}
+2024-04-25T21:46:16.065+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60820", "grpc.code": "OK", "grpc.time_ms": 1.869}
+2024-04-25T21:46:16.389+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60834", "grpc.code": "OK", "grpc.time_ms": 9.784}
+2024-04-25T21:46:16.706+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60846", "grpc.code": "OK", "grpc.time_ms": 1.798}
+2024-04-25T21:46:17.023+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60850", "grpc.code": "OK", "grpc.time_ms": 1.988}
+2024-04-25T21:46:17.334+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60852", "grpc.code": "OK", "grpc.time_ms": 9.64}
+2024-04-25T21:46:17.661+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60868", "grpc.code": "OK", "grpc.time_ms": 9.688}
+2024-04-25T21:46:17.992+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60870", "grpc.code": "OK", "grpc.time_ms": 9.743}
+2024-04-25T21:46:18.280+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60878", "grpc.code": "OK", "grpc.time_ms": 1.995}
+2024-04-25T21:46:18.576+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60882", "grpc.code": "OK", "grpc.time_ms": 1.706}
+2024-04-25T21:46:18.879+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60886", "grpc.code": "OK", "grpc.time_ms": 10.002}
+2024-04-25T21:46:19.171+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60900", "grpc.code": "OK", "grpc.time_ms": 9.769}
+2024-04-25T21:46:19.422+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60908", "grpc.code": "OK", "grpc.time_ms": 9.905}
+2024-04-25T21:46:19.772+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60920", "grpc.code": "OK", "grpc.time_ms": 9.794}
+2024-04-25T21:46:20.059+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60936", "grpc.code": "OK", "grpc.time_ms": 9.801}
+2024-04-25T21:46:20.416+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60946", "grpc.code": "OK", "grpc.time_ms": 1.816}
+2024-04-25T21:46:20.722+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60948", "grpc.code": "OK", "grpc.time_ms": 9.61}
+2024-04-25T21:46:21.026+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60962", "grpc.code": "OK", "grpc.time_ms": 9.555}
+2024-04-25T21:46:21.314+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60974", "grpc.code": "OK", "grpc.time_ms": 9.636}
+2024-04-25T21:46:21.596+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60990", "grpc.code": "OK", "grpc.time_ms": 9.715}
+2024-04-25T21:46:21.873+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60994", "grpc.code": "OK", "grpc.time_ms": 3.161}
+2024-04-25T21:46:22.148+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32774", "grpc.code": "OK", "grpc.time_ms": 9.614}
+2024-04-25T21:46:22.440+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32790", "grpc.code": "OK", "grpc.time_ms": 9.804}
+2024-04-25T21:46:22.755+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32794", "grpc.code": "OK", "grpc.time_ms": 1.974}
+2024-04-25T21:46:23.023+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32810", "grpc.code": "OK", "grpc.time_ms": 9.529}
+2024-04-25T21:46:23.242+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32812", "grpc.code": "OK", "grpc.time_ms": 1.596}
+2024-04-25T21:46:23.483+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32820", "grpc.code": "OK", "grpc.time_ms": 9.677}
+2024-04-25T21:46:23.763+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:32836", "grpc.code": "OK", "grpc.time_ms": 9.736}
+2024-04-25T21:46:24.027+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45194", "grpc.code": "OK", "grpc.time_ms": 9.588}
+2024-04-25T21:46:24.266+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45198", "grpc.code": "OK", "grpc.time_ms": 9.636}
+2024-04-25T21:46:24.530+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45214", "grpc.code": "OK", "grpc.time_ms": 9.831}
+2024-04-25T21:46:24.760+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45226", "grpc.code": "OK", "grpc.time_ms": 9.696}
+2024-04-25T21:46:25.111+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45242", "grpc.code": "OK", "grpc.time_ms": 9.675}
+2024-04-25T21:46:25.350+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45246", "grpc.code": "OK", "grpc.time_ms": 1.52}
+2024-04-25T21:46:25.648+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45256", "grpc.code": "OK", "grpc.time_ms": 10.05}
+2024-04-25T21:46:26.014+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45262", "grpc.code": "OK", "grpc.time_ms": 9.647}
+2024-04-25T21:46:26.366+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45264", "grpc.code": "OK", "grpc.time_ms": 9.641}
+2024-04-25T21:46:26.635+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45278", "grpc.code": "OK", "grpc.time_ms": 9.846}
+2024-04-25T21:46:26.911+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45288", "grpc.code": "OK", "grpc.time_ms": 1.785}
+2024-04-25T21:46:27.247+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:27+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45304", "grpc.code": "OK", "grpc.time_ms": 9.599}
+2024-04-25T21:46:27.463+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:27+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45320", "grpc.code": "OK", "grpc.time_ms": 1.49}
+2024-04-25T21:46:27.949+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:27+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45332", "grpc.code": "OK", "grpc.time_ms": 3.097}
+2024-04-25T21:46:28.276+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45344", "grpc.code": "OK", "grpc.time_ms": 9.819}
+2024-04-25T21:46:28.631+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45358", "grpc.code": "OK", "grpc.time_ms": 1.974}
+2024-04-25T21:46:29.029+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45372", "grpc.code": "OK", "grpc.time_ms": 2.294}
+2024-04-25T21:46:29.439+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45378", "grpc.code": "OK", "grpc.time_ms": 9.645}
+2024-04-25T21:46:29.841+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45380", "grpc.code": "OK", "grpc.time_ms": 9.886}
+2024-04-25T21:46:30.173+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45392", "grpc.code": "OK", "grpc.time_ms": 9.876}
+2024-04-25T21:46:30.557+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45400", "grpc.code": "OK", "grpc.time_ms": 9.862}
+2024-04-25T21:46:30.878+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45416", "grpc.code": "OK", "grpc.time_ms": 2.748}
+2024-04-25T21:46:31.268+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45430", "grpc.code": "OK", "grpc.time_ms": 9.749}
+2024-04-25T21:46:31.639+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45432", "grpc.code": "OK", "grpc.time_ms": 9.82}
+2024-04-25T21:46:31.982+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45446", "grpc.code": "OK", "grpc.time_ms": 9.83}
+2024-04-25T21:46:32.306+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45450", "grpc.code": "OK", "grpc.time_ms": 9.693}
+2024-04-25T21:46:32.615+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45464", "grpc.code": "OK", "grpc.time_ms": 10.268}
+2024-04-25T21:46:32.898+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45468", "grpc.code": "OK", "grpc.time_ms": 9.846}
+2024-04-25T21:46:33.203+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45474", "grpc.code": "OK", "grpc.time_ms": 9.896}
+2024-04-25T21:46:33.511+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45490", "grpc.code": "OK", "grpc.time_ms": 1.934}
+2024-04-25T21:46:33.845+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:45494", "grpc.code": "OK", "grpc.time_ms": 11.142}
+2024-04-25T21:46:34.165+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:34+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60198", "grpc.code": "OK", "grpc.time_ms": 9.717}
+2024-04-25T21:46:34.475+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:34+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60204", "grpc.code": "OK", "grpc.time_ms": 9.696}
+2024-04-25T21:46:34.776+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:34+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60220", "grpc.code": "OK", "grpc.time_ms": 10.275}
+2024-04-25T21:46:35.102+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:35+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60228", "grpc.code": "OK", "grpc.time_ms": 9.724}
+2024-04-25T21:46:35.371+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:35+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60244", "grpc.code": "OK", "grpc.time_ms": 10.2}
+2024-04-25T21:46:35.680+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:46:35+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60246", "grpc.code": "OK", "grpc.time_ms": 9.879}
+2024-04-25T21:46:39.100+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:46:39+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:60250", "grpc.code": "OK", "grpc.time_ms": 0.723}
+2024-04-25T21:47:04.932+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:04+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60132", "grpc.code": "OK", "grpc.time_ms": 9.542}
+2024-04-25T21:47:05.223+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:05+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60134", "grpc.code": "OK", "grpc.time_ms": 9.624}
+2024-04-25T21:47:05.506+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:05+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60148", "grpc.code": "OK", "grpc.time_ms": 9.668}
+2024-04-25T21:47:05.930+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:05+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60156", "grpc.code": "OK", "grpc.time_ms": 9.774}
+2024-04-25T21:47:06.212+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:06+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60166", "grpc.code": "OK", "grpc.time_ms": 9.574}
+2024-04-25T21:47:06.459+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:06+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60176", "grpc.code": "OK", "grpc.time_ms": 9.732}
+2024-04-25T21:47:06.700+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:06+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60186", "grpc.code": "OK", "grpc.time_ms": 10.016}
+2024-04-25T21:47:06.951+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:06+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60190", "grpc.code": "OK", "grpc.time_ms": 10.29}
+2024-04-25T21:47:07.212+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:07+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60194", "grpc.code": "OK", "grpc.time_ms": 9.966}
+2024-04-25T21:47:07.676+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:07+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60204", "grpc.code": "OK", "grpc.time_ms": 1.715}
+2024-04-25T21:47:07.962+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:07+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60206", "grpc.code": "OK", "grpc.time_ms": 10.087}
+2024-04-25T21:47:08.237+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:08+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60220", "grpc.code": "OK", "grpc.time_ms": 9.888}
+2024-04-25T21:47:08.505+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:08+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60222", "grpc.code": "OK", "grpc.time_ms": 1.944}
+2024-04-25T21:47:08.801+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:08+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60226", "grpc.code": "OK", "grpc.time_ms": 1.972}
+2024-04-25T21:47:09.160+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60242", "grpc.code": "OK", "grpc.time_ms": 9.843}
+2024-04-25T21:47:09.482+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60256", "grpc.code": "OK", "grpc.time_ms": 1.738}
+2024-04-25T21:47:09.819+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60262", "grpc.code": "OK", "grpc.time_ms": 9.622}
+2024-04-25T21:47:10.185+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60266", "grpc.code": "OK", "grpc.time_ms": 9.549}
+2024-04-25T21:47:10.497+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60274", "grpc.code": "OK", "grpc.time_ms": 1.903}
+2024-04-25T21:47:10.765+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60284", "grpc.code": "OK", "grpc.time_ms": 1.768}
+2024-04-25T21:47:11.036+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60292", "grpc.code": "OK", "grpc.time_ms": 2.234}
+2024-04-25T21:47:11.317+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60298", "grpc.code": "OK", "grpc.time_ms": 2.532}
+2024-04-25T21:47:11.647+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60302", "grpc.code": "OK", "grpc.time_ms": 10.375}
+2024-04-25T21:47:11.935+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60308", "grpc.code": "OK", "grpc.time_ms": 1.965}
+2024-04-25T21:47:12.224+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:12+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60322", "grpc.code": "OK", "grpc.time_ms": 9.836}
+2024-04-25T21:47:12.540+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:12+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60328", "grpc.code": "OK", "grpc.time_ms": 10.558}
+2024-04-25T21:47:12.819+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:12+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60330", "grpc.code": "OK", "grpc.time_ms": 1.725}
+2024-04-25T21:47:13.098+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:13+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60332", "grpc.code": "OK", "grpc.time_ms": 10.389}
+2024-04-25T21:47:13.394+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:13+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60334", "grpc.code": "OK", "grpc.time_ms": 1.943}
+2024-04-25T21:47:13.679+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:13+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60342", "grpc.code": "OK", "grpc.time_ms": 9.641}
+2024-04-25T21:47:13.955+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:13+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44024", "grpc.code": "OK", "grpc.time_ms": 1.817}
+2024-04-25T21:47:14.233+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:14+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44032", "grpc.code": "OK", "grpc.time_ms": 9.897}
+2024-04-25T21:47:14.514+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:14+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44048", "grpc.code": "OK", "grpc.time_ms": 1.679}
+2024-04-25T21:47:14.804+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:14+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44052", "grpc.code": "OK", "grpc.time_ms": 9.948}
+2024-04-25T21:47:15.098+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44064", "grpc.code": "OK", "grpc.time_ms": 9.785}
+2024-04-25T21:47:15.371+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44068", "grpc.code": "OK", "grpc.time_ms": 2.007}
+2024-04-25T21:47:15.662+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44070", "grpc.code": "OK", "grpc.time_ms": 1.617}
+2024-04-25T21:47:15.927+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:15+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44080", "grpc.code": "OK", "grpc.time_ms": 9.56}
+2024-04-25T21:47:16.201+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44094", "grpc.code": "OK", "grpc.time_ms": 9.624}
+2024-04-25T21:47:16.510+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44100", "grpc.code": "OK", "grpc.time_ms": 10.074}
+2024-04-25T21:47:16.736+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:16+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44102", "grpc.code": "OK", "grpc.time_ms": 1.769}
+2024-04-25T21:47:17.205+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44104", "grpc.code": "OK", "grpc.time_ms": 9.664}
+2024-04-25T21:47:17.429+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44106", "grpc.code": "OK", "grpc.time_ms": 11.762}
+2024-04-25T21:47:17.712+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44110", "grpc.code": "OK", "grpc.time_ms": 11.167}
+2024-04-25T21:47:17.987+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:17+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44118", "grpc.code": "OK", "grpc.time_ms": 11.658}
+2024-04-25T21:47:18.276+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44130", "grpc.code": "OK", "grpc.time_ms": 11.115}
+2024-04-25T21:47:18.561+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44134", "grpc.code": "OK", "grpc.time_ms": 11.736}
+2024-04-25T21:47:18.849+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:18+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44150", "grpc.code": "OK", "grpc.time_ms": 11.29}
+2024-04-25T21:47:19.090+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44154", "grpc.code": "OK", "grpc.time_ms": 11.587}
+2024-04-25T21:47:19.337+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44170", "grpc.code": "OK", "grpc.time_ms": 1.986}
+2024-04-25T21:47:19.592+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44180", "grpc.code": "OK", "grpc.time_ms": 2.077}
+2024-04-25T21:47:19.898+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:19+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44194", "grpc.code": "OK", "grpc.time_ms": 9.785}
+2024-04-25T21:47:20.192+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44210", "grpc.code": "OK", "grpc.time_ms": 9.908}
+2024-04-25T21:47:20.515+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44214", "grpc.code": "OK", "grpc.time_ms": 9.812}
+2024-04-25T21:47:20.810+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:20+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44224", "grpc.code": "OK", "grpc.time_ms": 9.632}
+2024-04-25T21:47:21.104+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44236", "grpc.code": "OK", "grpc.time_ms": 10.023}
+2024-04-25T21:47:21.388+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44238", "grpc.code": "OK", "grpc.time_ms": 9.531}
+2024-04-25T21:47:21.656+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44250", "grpc.code": "OK", "grpc.time_ms": 1.745}
+2024-04-25T21:47:21.910+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:21+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44254", "grpc.code": "OK", "grpc.time_ms": 9.842}
+2024-04-25T21:47:22.172+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44268", "grpc.code": "OK", "grpc.time_ms": 9.907}
+2024-04-25T21:47:22.445+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44280", "grpc.code": "OK", "grpc.time_ms": 9.646}
+2024-04-25T21:47:22.682+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44290", "grpc.code": "OK", "grpc.time_ms": 1.763}
+2024-04-25T21:47:22.955+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:22+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44294", "grpc.code": "OK", "grpc.time_ms": 9.699}
+2024-04-25T21:47:23.219+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44298", "grpc.code": "OK", "grpc.time_ms": 9.824}
+2024-04-25T21:47:23.476+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44310", "grpc.code": "OK", "grpc.time_ms": 9.718}
+2024-04-25T21:47:23.694+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:44312", "grpc.code": "OK", "grpc.time_ms": 9.971}
+2024-04-25T21:47:23.945+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37386", "grpc.code": "OK", "grpc.time_ms": 9.86}
+2024-04-25T21:47:24.144+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37392", "grpc.code": "OK", "grpc.time_ms": 1.52}
+2024-04-25T21:47:24.391+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37406", "grpc.code": "OK", "grpc.time_ms": 10.154}
+2024-04-25T21:47:24.808+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37414", "grpc.code": "OK", "grpc.time_ms": 10.197}
+2024-04-25T21:47:24.989+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:24+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37422", "grpc.code": "OK", "grpc.time_ms": 10.022}
+2024-04-25T21:47:25.240+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37436", "grpc.code": "OK", "grpc.time_ms": 1.66}
+2024-04-25T21:47:25.862+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:25+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37440", "grpc.code": "OK", "grpc.time_ms": 9.625}
+2024-04-25T21:47:26.246+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37448", "grpc.code": "OK", "grpc.time_ms": 9.68}
+2024-04-25T21:47:26.564+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37462", "grpc.code": "OK", "grpc.time_ms": 9.731}
+2024-04-25T21:47:26.784+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:26+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37476", "grpc.code": "OK", "grpc.time_ms": 9.78}
+2024-04-25T21:47:27.740+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:27+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37488", "grpc.code": "OK", "grpc.time_ms": 9.85}
+2024-04-25T21:47:28.060+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37490", "grpc.code": "OK", "grpc.time_ms": 9.885}
+2024-04-25T21:47:28.321+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37504", "grpc.code": "OK", "grpc.time_ms": 10.034}
+2024-04-25T21:47:28.599+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37508", "grpc.code": "OK", "grpc.time_ms": 10.09}
+2024-04-25T21:47:28.914+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:28+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37510", "grpc.code": "OK", "grpc.time_ms": 10.119}
+2024-04-25T21:47:29.183+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37516", "grpc.code": "OK", "grpc.time_ms": 9.923}
+2024-04-25T21:47:29.447+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37526", "grpc.code": "OK", "grpc.time_ms": 1.669}
+2024-04-25T21:47:29.715+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:29+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37542", "grpc.code": "OK", "grpc.time_ms": 9.629}
+2024-04-25T21:47:30.023+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37556", "grpc.code": "OK", "grpc.time_ms": 9.878}
+2024-04-25T21:47:30.235+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37558", "grpc.code": "OK", "grpc.time_ms": 9.959}
+2024-04-25T21:47:30.514+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37566", "grpc.code": "OK", "grpc.time_ms": 9.689}
+2024-04-25T21:47:30.741+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37570", "grpc.code": "OK", "grpc.time_ms": 10.07}
+2024-04-25T21:47:30.975+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37578", "grpc.code": "OK", "grpc.time_ms": 9.559}
+2024-04-25T21:47:31.201+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37590", "grpc.code": "OK", "grpc.time_ms": 9.513}
+2024-04-25T21:47:31.531+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37602", "grpc.code": "OK", "grpc.time_ms": 9.541}
+2024-04-25T21:47:31.773+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:31+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37608", "grpc.code": "OK", "grpc.time_ms": 1.593}
+2024-04-25T21:47:32.015+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37610", "grpc.code": "OK", "grpc.time_ms": 9.494}
+2024-04-25T21:47:32.273+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37618", "grpc.code": "OK", "grpc.time_ms": 9.719}
+2024-04-25T21:47:32.546+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37620", "grpc.code": "OK", "grpc.time_ms": 9.801}
+2024-04-25T21:47:32.791+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:32+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37628", "grpc.code": "OK", "grpc.time_ms": 9.709}
+2024-04-25T21:47:33.061+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37638", "grpc.code": "OK", "grpc.time_ms": 9.545}
+2024-04-25T21:47:33.313+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37648", "grpc.code": "OK", "grpc.time_ms": 9.689}
+2024-04-25T21:47:33.629+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-25T21:47:33+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:37656", "grpc.code": "OK", "grpc.time_ms": 9.7}
+2024-04-25T21:47:35.924+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:47:35+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:33376", "grpc.code": "OK", "grpc.time_ms": 1.204}
+2024-04-25T21:47:53.544+0500	INFO	zap/options.go:212	finished streaming call with code OK	{"grpc.start_time": "2024-04-25T21:47:53+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetAllProducts", "peer.address": "127.0.0.1:58674", "grpc.code": "OK", "grpc.time_ms": 1.027}
+2024-04-25T22:15:06.189+0500	INFO	app/root.go:37	user service stops
+2024-04-26T14:03:29.987+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-26T14:03:39.544+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:03:39+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:41506", "grpc.code": "OK", "grpc.time_ms": 11.481}
+2024-04-26T14:04:30.874+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:04:30+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:60566", "grpc.code": "OK", "grpc.time_ms": 1.965}
+2024-04-26T14:05:43.140+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:05:43+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:55750", "grpc.code": "OK", "grpc.time_ms": 9.807}
+2024-04-26T14:06:09.923+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:06:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39674", "grpc.code": "OK", "grpc.time_ms": 1.83}
+2024-04-26T14:06:10.233+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:06:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39680", "grpc.code": "OK", "grpc.time_ms": 2.202}
+2024-04-26T14:06:10.539+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:06:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39694", "grpc.code": "OK", "grpc.time_ms": 10.013}
+2024-04-26T14:06:10.867+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:06:10+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39700", "grpc.code": "OK", "grpc.time_ms": 9.587}
+2024-04-26T14:06:11.199+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:06:11+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:39712", "grpc.code": "OK", "grpc.time_ms": 1.952}
+2024-04-26T14:06:52.800+0500	INFO	app/root.go:37	user service stops
+2024-04-26T14:06:56.565+0500	INFO	app/app.go:108	gRPC Server Listening	{"url": ":50025"}
+2024-04-26T14:07:09.152+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:07:09+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:40204", "grpc.code": "OK", "grpc.time_ms": 7.642}
+2024-04-26T14:07:23.875+0500	ERROR	services/product.go:58	articleCategoriesUsecase.Get	{"error": "ProductRepo - GetProduct - r.Pool.QueryRow: no rows in result set"}
+product_service/internal/delivery/grpc/services.productRPC.GetProduct
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/services/product.go:58
+product_service/genproto/product._ProductService_GetProduct_Handler.func1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:184
+product_service/internal/app.NewApp.UnaryInterceptorData.func6
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:34
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+github.com/grpc-ecosystem/go-grpc-middleware/recovery.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/recovery/interceptors.go:33
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:31
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:186
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-26T14:07:23.876+0500	ERROR	zap/options.go:212	finished unary call with code Internal	{"grpc.start_time": "2024-04-26T14:07:23+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:40022", "error": "rpc error: code = Internal desc = Internal", "grpc.code": "Internal", "grpc.time_ms": 5.558}
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.DefaultMessageProducer
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/options.go:212
+github.com/grpc-ecosystem/go-grpc-middleware/logging/zap.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/logging/zap/server_interceptors.go:39
+product_service/internal/app.NewApp.ChainUnaryServer.func5.1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:48
+github.com/grpc-ecosystem/go-grpc-middleware/tags.UnaryServerInterceptor.func1
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/tags/interceptors.go:23
+product_service/internal/app.NewApp.ChainUnaryServer.func5
+	/home/nodirbek/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.4.0/chain.go:53
+product_service/internal/app.NewApp.UnaryInterceptor.func7.1.1
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:16
+product_service/internal/app.NewApp.UnaryInterceptor.func7
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/internal/delivery/grpc/server/middleware.go:23
+product_service/genproto/product._ProductService_GetProduct_Handler
+	/home/nodirbek/go/src/clean-microservice/clean-microservice/product_service/genproto/product/product_grpc.pb.go:186
+google.golang.org/grpc.(*Server).processUnaryRPC
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1369
+google.golang.org/grpc.(*Server).handleStream
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1780
+google.golang.org/grpc.(*Server).serveStreams.func2.1
+	/home/nodirbek/go/pkg/mod/google.golang.org/grpc@v1.63.2/server.go:1019
+2024-04-26T14:07:27.012+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:07:27+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "AddProduct", "peer.address": "127.0.0.1:36300", "grpc.code": "OK", "grpc.time_ms": 10.16}
+2024-04-26T14:07:34.296+0500	INFO	zap/options.go:212	finished unary call with code OK	{"grpc.start_time": "2024-04-26T14:07:34+05:00", "system": "grpc", "span.kind": "server", "grpc.service": "ProductService", "grpc.method": "GetProduct", "peer.address": "127.0.0.1:36304", "grpc.code": "OK", "grpc.time_ms": 0.447}
